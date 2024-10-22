@@ -1,7 +1,7 @@
 ---
 aliases:
-  - week-3-cs50x
-title: Week 3 - Algorithms
+  - lecture-3-cs50x
+title: Lecture 3 - Algorithms
 link:
   - "[[Introduction to Computer Science|CS50x]]"
   - "[[Computer Science]]"

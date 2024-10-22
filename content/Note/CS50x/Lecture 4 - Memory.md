@@ -1,7 +1,7 @@
 ---
 aliases:
-  - week-4-cs50x
-title: Week 4 - Memory
+  - lecture-4-cs50x
+title: Lecture 4 - Memory
 link:
   - "[[Introduction to Computer Science|CS50x]]"
   - "[[Computer Science]]"

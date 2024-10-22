@@ -1,6 +1,6 @@
 ---
 aliases:
-  - week-1-cs50x
+  - lecture-1-cs50x
 title: Week 1 - C Language
 link:
   - "[[Introduction to Computer Science|CS50x]]"

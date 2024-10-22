@@ -1,6 +1,6 @@
 ---
 aliases:
-  - week-0-cs50x
+  - lecture-0-cs50x
 title: Week 0 - Scratch
 link:
   - "[[Introduction to Computer Science|CS50x]]"

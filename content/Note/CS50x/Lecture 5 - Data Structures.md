@@ -1,7 +1,7 @@
 ---
 aliases:
-  - week-5-cs50x
-title: Week 5 - Data Structures
+  - lecture-5-cs50x
+title: Lecture 5 - Data Structures
 link:
   - "[[Introduction to Computer Science|CS50x]]"
   - "[[Computer Science]]"
